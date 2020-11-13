@@ -1,0 +1,15 @@
+{
+  "short_name": "JadeSwap",
+  "name": "通过代币资产获取 ",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "240x240"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
