@@ -77,9 +77,9 @@ export const supportedPools = [
     tokenAddresses: {
       1: '0x6A8aA46b62ec8e613fd22cfF8c381FC47f469e3a',
     },
-    name: 'Sushi Party!',
-    symbol: 'SUSHI-ETH UNI-V2 LP',
-    tokenSymbol: 'SUSHI',
-    icon: '🍣',
+    name: '菜不辣大观园',
+    symbol: '菜不辣大师',
+    tokenSymbol: 'YGS',
+    icon: '💎',
   }
 ]
