@@ -70,7 +70,6 @@ export const getPoolWeight = async (masterChefContract, pid) => {
 }
 
 export const getEarned = async (masterChefContract, pid, account) => {
-  console.log("0000000000000000000000",masterChefContract.methods.pendingSushi(pid, account).call(),pid,account);
   return masterChefContract.methods.pendingSushi(pid, account).call()
 }
 

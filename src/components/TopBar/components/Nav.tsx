@@ -14,11 +14,11 @@ const Nav: React.FC = () => {
       {/* <StyledLink exact activeClassName="active" to="/staking">
         Staking
       </StyledLink> */}
-            <StyledLink exact activeClassName="active" to="/staking">
+            <StyledLink exact activeClassName="active" to="#">
         DAO
       </StyledLink>
       <StyledAbsoluteLink
-        href="https://github.com/jade-finance/yuswap-frontend"
+        href="#"
         target="_blank"
       >
         免责申明
