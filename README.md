@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Website
 
-Open Online : [https://jadeswap-frontend.vercel.app/](https://jadeswap-frontend.vercel.app/)
+Open Online : [https://yuswap-frontend.vercel.app/](https://yuswap-frontend.vercel.app/)
 
 ### `yarn start`
 

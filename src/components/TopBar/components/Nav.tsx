@@ -18,7 +18,7 @@ const Nav: React.FC = () => {
         DAO
       </StyledLink>
       <StyledAbsoluteLink
-        href="https://github.com/jade-finance/jadeswap-frontend"
+        href="https://github.com/jade-finance/yuswap-frontend"
         target="_blank"
       >
         免责申明
