@@ -43,7 +43,7 @@ export const contractAddresses = {
     4: '0xa76fd9def6C3BD0Fc991d32eD33Ec978F5bd8c75',
   },
   masterChef: {
-    4: '0x40d25dC110109BD0862E486f99Ce451A6E25Ac83',
+    4: '0x9cA03be987B731a9d84984E18ECE3019b68Af551',
   },
   weth: {
     4: '0x3Dce90068b23288F07cA95901058e12878112069',
@@ -75,7 +75,7 @@ export const supportedPools = [
       4: '0x43016D7A6f33e551361E7C1Ef0CeE1deD02dab46',
     },
     tokenAddresses: {
-      4: '0x6A8aA46b62ec8e613fd22cfF8c381FC47f469e3a',
+      4: '0x43016D7A6f33e551361E7C1Ef0CeE1deD02dab46',
     },
     name: '菜不辣大观园',
     symbol: '菜不辣大师',

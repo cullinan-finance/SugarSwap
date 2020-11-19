@@ -120,7 +120,7 @@ const Balances: React.FC = () => {
         </CardContent>
         <Footnote>
           每个新区块奖励
-          <FootnoteValue>1,000 YSF</FootnoteValue>
+          <FootnoteValue>1 YSF</FootnoteValue>
         </Footnote>
       </Card>
     </StyledWrapper>
