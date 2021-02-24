@@ -77,7 +77,7 @@ const Farm: React.FC = () => {
         </StyledCardsWrapper>
         <Spacer size="lg" />
         <StyledInfo>
-          ⭐️ 每当您投入和存入资产代币时，合约将自动为您收获 YSF 奖励！
+          ⭐️ 每当您投入和存入资产代币时，合约将自动为您收获 JC奖励！
         </StyledInfo>
         <Spacer size="lg" />
       </StyledFarm>

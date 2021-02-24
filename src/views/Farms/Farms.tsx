@@ -27,7 +27,7 @@ const Farms: React.FC = () => {
             <Route exact path={path}>
               <PageHeader
                 icon={<img src={chef} height="120" />}
-                subtitle="通过抵押资产通证，赚取 YSF 治理代币"
+                subtitle="通过抵押资产通证，赚取Yujian治理代币"
                 title="选择你最喜欢的资产"
               />
               <FarmCards />

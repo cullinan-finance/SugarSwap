@@ -11,12 +11,6 @@ const Nav: React.FC = () => {
       <StyledLink exact activeClassName="active" to="/farms">
         资产池
       </StyledLink>
-      {/* <StyledLink exact activeClassName="active" to="/staking">
-        Staking
-      </StyledLink> */}
-            <StyledLink exact activeClassName="active" to="#">
-        DAO
-      </StyledLink>
       <StyledAbsoluteLink
         href="#"
         target="_blank"
